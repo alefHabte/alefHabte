@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=alefhabte&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" width="250px" height="200px" alt="coding_gif" src="" />
+<img align="right" width="250px" height="200px" alt="coding_gif" src="https://i.pinimg.com/originals/05/bb/97/05bb976075357338b67686cc6292bc33.gif" />
 
 - 🔭 Currently building Full Stack apps with **Java**, **Spring**, **React**, and **PostgreSQL**.  
 - 🌱 Exploring **Spring Security**, **Functional Programming**, and advanced **React** features.  
